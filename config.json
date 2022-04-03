@@ -1,0 +1,23 @@
+{
+    "image_path": "image.png",
+    "image_start_coords": [641 , 1325],
+    "thread_delay": 2,
+    "unverified_place_frequency": false,
+    "compact_logging": true,
+    "using_tor": false,
+    "tor_port": 1881,
+    "tor_control_port": 9051,
+    "tor_password": "Passwort",
+    "tor_delay": 5,
+    "use_builtin_tor": true,
+    "workers": {
+        "USERNAME1": {
+            "password": "PASSWORD",
+            "start_coords": [30, 30]
+        },
+        "USERNAME2": {
+            "password": "PASSWORD",
+            "start_coords": [50, 50]
+        }
+    }
+}
