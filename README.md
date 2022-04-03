@@ -1,3 +1,13 @@
+## Installing
+# You need python (get it at microsoft store)
+1) Download as ZIP
+2) Unzip it
+3) Open start.bat
+4) Fill in USERNAME & PASSWORD
+5) Open start.bat
+
+
+
 # Reddit Place Script 2022
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
